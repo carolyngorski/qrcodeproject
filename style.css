@@ -16,6 +16,7 @@
  height:500px;
  border-radius: 8px;
  background:hsl(0,0%,100%);
+ text-align:center;    
  position:relative;
  left:50%;
  top:50%;
@@ -25,19 +26,14 @@ h2{
  font-family: 'Outfit';
  font-size: 20px;
  font-weight:700;
- position: absolute;
- top:60%;  
- left:5%;
+
 }
 
 p{
  font-family: 'Outfit';
  font-size:15px;
  font-weight:400;
- position: absolute;
- top: 75%;
- left:10%;  
-   
+
 
    
 }
