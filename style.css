@@ -33,12 +33,12 @@ p{
 
   img {
   border-radius: 8px;
-  width: 150px;
-  height: 150px;
+  width: 180px;
+  height: 180px;
   position:relative;
   left: 50%;
   top:0%;
   transform: translate(-50%,0%);
-   padding: 20px;
+   
    
 }
