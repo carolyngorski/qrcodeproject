@@ -5,9 +5,10 @@
    background:hsl(212,45%,89%)
 }
 .child{
- border-radius: 8px;
+ 
  width: 120px;
- height:300px;
+ height:500px;
+ border-radius: 8px;
  background:hsl(0,0%,100%)
  
 }
