@@ -23,16 +23,17 @@
 }
 h2{
  font-family: 'Outfit';
- font-size: 20px;
+ font-size: 15px;
  font-weight:700;
  position: relative;
 }
 
 p{
  font-family: 'Outfit';
- font-size:15px;
+ font-size:10px;
  font-weight:400;
  position: relative;
+   
 }
 
   img {
