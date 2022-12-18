@@ -26,13 +26,16 @@ h2{
  font-size: 20px;
  font-weight:700;
  position: absolute;
- top:50%;  
+ top:60%;  
 }
 
 p{
  font-family: 'Outfit';
  font-size:15px;
  font-weight:400;
+ position: absolute;
+ top: 80%;
+   
 
    
 }
