@@ -14,7 +14,7 @@
  
  width: 300px;
  height:500px;
- border-radius: 10px;
+ border-radius: 20px;
  background:hsl(0,0%,100%);
  text-align:center;    
  position:relative;
@@ -45,9 +45,8 @@ p{
  padding-top:0px;
  padding-left:22px;
  padding-right:22px;
-
-
-   
+ color: hsl(220,15%,55%)
+    
 }
 
   img {
