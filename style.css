@@ -21,12 +21,14 @@ h2{
  font-family: Outfit;
  font-size: 20px;
  font-weight:700;
+ position: absolute;
 }
 
 p{
  font-family: Outfit;
  font-size:15px;
  font-weight:400;
+ position: absolute;
 }
 
   img {
