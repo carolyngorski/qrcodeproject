@@ -37,8 +37,8 @@ p{
   height: 180px;
   position:relative;
   left: 50%;
-  top:0%;
-  transform: translate(-50%,0%);
+  top:40%;
+  transform: translate(-50%,-40%);
    
    
 }
