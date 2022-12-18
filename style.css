@@ -35,7 +35,7 @@ p{
   border-radius: 8px;
   width: 150px;
   height: 150px;
-  position:absolute;
+  position:relative;
   left: 50%;
   top:0%;
   transform: translate(-50%,0%);
