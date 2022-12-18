@@ -2,14 +2,21 @@
  .parent{
    width:1440px;
    height:700px;
-   background:hsl(212,45%,89%)
+   background:hsl(212,45%,89%);
+   position:relative;
+    
 }
-.child{
+  .parent .child{
  
  width: 120px;
  height:500px;
  border-radius: 8px;
- background:hsl(0,0%,100%)
+ background:hsl(0,0%,100%);
+ position:absolute;
+ left:0;
+ top:0;
+ right:0;
+ margin:auto;
  
 }
 
