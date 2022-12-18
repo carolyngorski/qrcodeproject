@@ -28,7 +28,10 @@ h2{
  font-weight:700;
  position: relative;
  top: 60%;
- padding:10px;  
+   
+ padding-top:0px;
+ padding-left:15px;
+ padding-right:15px;
 
 }
 
