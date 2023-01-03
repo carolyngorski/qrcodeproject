@@ -8,7 +8,7 @@ body{
 
 .parent{
    min-height: 100vh;
-   min-width: 300vh;
+   min-width: 100vh;
    background:hsl(212,45%,89%);
    
     
