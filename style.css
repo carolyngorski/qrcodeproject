@@ -4,6 +4,7 @@
 body{
    display: flex;
    align-items: center;
+   font-family: 'Outfit';
 }
 
 .parent{
@@ -25,7 +26,7 @@ body{
  margin: 0 auto;
 }
 .child h2{
- font-family: 'Outfit';
+ 
  font-size: 22px;
  color: hsl(218, 44%, 22%);
  font-weight:700;
@@ -34,7 +35,6 @@ body{
 }
 
 .child p{
- font-family: 'Outfit';
  font-size:0.9375em;
  font-weight:400;
  color: hsl(220,15%,55%);
